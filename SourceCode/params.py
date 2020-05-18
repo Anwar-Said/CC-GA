@@ -1,0 +1,11 @@
+# fileName = ["karate","dolphins","football","polbooks","jazz","ecoli","netscience","facebook","collaboration","PGP","twitter","internet","protein"]
+#fileName = ["collaboration","PGP","twitter","internet","protein"]
+fileName = ['karate','polbooks','football']
+#fileName = ['FF256','FF512','FF1000','WattsStrogtz256','WattsStrogtz512','WattsStrogtz1000']
+r = 50
+mutationRate = 0.15
+simpleMutationRate = 0.02
+crossoverRate = 0.2
+topGenerations = 0.1
+generationSize = 10.0
+iterations = 10
