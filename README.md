@@ -1,12 +1,8 @@
-'Created on Aug 26, 2017
+/*******************Pre-requisites to run CC-GA*******************************/ <br/>
 
-@author: Anwar Said'
-
-/*******************Pre-requisites to run CC-GA*******************************/
-
-1-install Python-3
-2-install pyparsing package
-3-install networkx
+1-install Python-3  <br/>
+2-install pyparsing package  <br/>
+3-install networkx  <br/>
 
 /******************run the program using this command*************************/
 
