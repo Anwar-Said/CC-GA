@@ -2,7 +2,7 @@
 
 1-install Python-3  <br/>
 2-install pyparsing package  <br/>
-3-install networkx  <br/>
+3-install networkx==1.9  <br/>
 
 /******************/run the algorithm using the following command*************************/  <br/>
 
